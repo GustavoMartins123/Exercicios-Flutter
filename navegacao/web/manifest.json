@@ -1,6 +1,6 @@
 {
-    "name": "gasolina_alcool_bike",
-    "short_name": "gasolina_alcool_bike",
+    "name": "navegacao",
+    "short_name": "navegacao",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

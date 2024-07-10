@@ -1,4 +1,4 @@
-package com.example.gasolina_alcool_bike
+package com.example.navegacao
 
 import io.flutter.embedding.android.FlutterActivity
 
