@@ -1,6 +1,6 @@
 {
-    "name": "frase_unica",
-    "short_name": "frase_unica",
+    "name": "entrada_dados",
+    "short_name": "entrada_dados",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
