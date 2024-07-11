@@ -1,6 +1,6 @@
 {
-    "name": "projetologin",
-    "short_name": "projetologin",
+    "name": "gesture_detector_app",
+    "short_name": "gesture_detector_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

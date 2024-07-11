@@ -1,4 +1,4 @@
-package com.example.projetologin
+package com.example.gesture_detector_app
 
 import io.flutter.embedding.android.FlutterActivity
 
