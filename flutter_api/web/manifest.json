@@ -1,6 +1,6 @@
 {
-    "name": "gesture_detector_app",
-    "short_name": "gesture_detector_app",
+    "name": "flutter_api",
+    "short_name": "flutter_api",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
