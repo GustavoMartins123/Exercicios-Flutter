@@ -1,6 +1,6 @@
 {
-    "name": "listas",
-    "short_name": "listas",
+    "name": "flutter_future",
+    "short_name": "flutter_future",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
