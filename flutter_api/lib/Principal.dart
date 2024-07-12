@@ -20,12 +20,6 @@ class _PrincipalState extends State<Principal> {
     if (response.statusCode == 200) {
       setState(() {
         resultado = convert.jsonDecode(response.body);
-        if (resultado.containsKey(campoEstacao.text) &&
-            resultado[campoEstacao.text].containsKey(campoDia.text) &&
-            resultado[campoEstacao.text][campoDia.text].containsKey(horaEscolhida)) {
-          resultado[campoEstacao.text][campoDia.text][horaEscolhida].remove("icone");
-          resultado[campoEstacao.text][campoDia.text][horaEscolhida].remove("cod_icone");
-        }
       });
     }
   }
