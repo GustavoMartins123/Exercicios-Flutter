@@ -1,4 +1,4 @@
-package com.example.youtube
+package com.example.floating_button_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
