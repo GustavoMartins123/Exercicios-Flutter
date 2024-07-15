@@ -1,6 +1,6 @@
 {
-    "name": "floating_button_flutter",
-    "short_name": "floating_button_flutter",
+    "name": "shared_flutter",
+    "short_name": "shared_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

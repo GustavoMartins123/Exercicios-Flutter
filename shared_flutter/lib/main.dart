@@ -1,8 +1,8 @@
-import 'package:floating_button_flutter/Principal.dart';
 import 'package:flutter/material.dart';
+import 'package:shared_flutter/Tela1.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: Principal(),
+    home: Tela1(),
   ));
 }

@@ -1,4 +1,4 @@
-# floating_button_flutter
+# shared_flutter
 
 A new Flutter project.
 
