@@ -80,6 +80,9 @@ class _PrincipalState extends State<Principal> {
                       confirmDismiss: (direction) async{
                         if(direction == DismissDirection.endToStart){
                           itens.removeAt(indice);
+                          setState(() {
+                            itens[indice]["Nome"];
+                          });
                           salvarArquivo();
                           ScaffoldMessenger.of(context).showSnackBar(
                               SnackBar(
