@@ -1,4 +1,4 @@
-package com.example.banco_dados
+package com.example.lista_tarefas
 
 import io.flutter.embedding.android.FlutterActivity
 
