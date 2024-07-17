@@ -79,7 +79,6 @@ class _PrincipalState extends State<Principal> {
                           ),
                       confirmDismiss: (direction) async{
                         if(direction == DismissDirection.endToStart){
-                          itens.removeAt(indice);
                           setState(() {
                             itens.removeAt(indice);
                           });
