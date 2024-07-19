@@ -1,6 +1,6 @@
 {
-    "name": "navegacao_drawer",
-    "short_name": "navegacao_drawer",
+    "name": "curso_firebase",
+    "short_name": "curso_firebase",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

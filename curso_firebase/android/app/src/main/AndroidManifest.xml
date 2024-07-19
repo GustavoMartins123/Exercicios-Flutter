@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.curso_firebase">
     <application
-        android:label="navegacao_drawer"
+        android:label="curso_firebase"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

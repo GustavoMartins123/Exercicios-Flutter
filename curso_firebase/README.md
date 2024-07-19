@@ -1,4 +1,4 @@
-# navegacao_drawer
+# curso_firebase
 
 A new Flutter project.
 

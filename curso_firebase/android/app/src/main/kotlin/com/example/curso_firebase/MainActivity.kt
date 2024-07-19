@@ -1,4 +1,4 @@
-package com.example.navegacao_drawer
+package com.example.curso_firebase
 
 import io.flutter.embedding.android.FlutterActivity
 
