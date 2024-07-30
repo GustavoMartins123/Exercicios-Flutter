@@ -1,8 +1,8 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=C:\Flutter
-FLUTTER_APPLICATION_PATH=C:\Users\usuario-36184\Android-Projects\atividades_aleatorias
+FLUTTER_ROOT=/home/gustavo-martins/snap/flutter/common/flutter
+FLUTTER_APPLICATION_PATH=/home/gustavo-martins/Área de trabalho/Flutter_Ex/atividades_aleatorias
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=lib\main.dart
+FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
